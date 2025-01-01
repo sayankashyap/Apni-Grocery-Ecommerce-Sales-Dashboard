@@ -13,4 +13,4 @@ Welcome to the Apni Grocery Ecommerce Sales Dashboard!!
 
 - Open the Power BI project file in the repository and embark on a journey of insightful analysis.
 
-- Your feedback and contributions are welcomed as we continuously enhance this dashboard for an enriched user experience. Happy analyzing!!
+- Your feedback and contributions are welcomed as we continuously enhance this dashboard for an enriched user experience. Happy analyzing!
